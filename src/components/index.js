@@ -1,7 +1,6 @@
 import React from "react";
-import NavbarComponent from "./NavbarComponent";
 import { Col, Container, Row } from "react-bootstrap";
-import {Hasil, ListCategory,NavbarComponent } from "./components";
+import {Hasil, ListCategory, NavbarComponent } from "./components";
 
 
 
